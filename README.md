@@ -1,6 +1,7 @@
 📚 Student Management System
 
 📌 Overview
+
 The Student Management System is a Python-based project designed to efficiently manage student records. It allows users to perform essential operations such as adding, viewing, updating, and deleting student data in a structured manner.
 
 This project demonstrates the practical implementation of core Python concepts including data structures, functions, and file handling.
